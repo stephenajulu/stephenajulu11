@@ -29,7 +29,7 @@ google_analytics_id = ""
 home = "Home"
 logo = ""
 phone = "+254 726 024 210"
-theme_color = "#41228e"
+theme_color = "#120124"
 [params.contact]
 enable = true
 form_action = "alunje73@gmail.com"
