@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://stephenajulu11.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Stephen Ajulu"
 
 # css plugins
 [[params.plugins.css]]
