@@ -11,7 +11,7 @@ I'll soon upload a more professional readme and change my domain name to somethi
 
 Go check out my blog [here](https://ajulusthoughts.wordpress.com)!
 
-You can watch it in action [here](https://stephenajulu.com)!
+You can watch it in action [here](https://stephenajulu11.netlify.app)!
 
 Donate/Support Me: 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L81058L)
@@ -23,7 +23,7 @@ Donate/Support Me:
 </div>
 
 
-## Great Thanks to [@themefisher](https://github.com/themefisher)
+## Great Thanks to [Themefisher](https://github.com/themefisher) [Netlify](https://netlify.com) and [Forestry CMS](https://forestry.io)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -33,6 +33,7 @@ Donate/Support Me:
 </form>
 
 ---
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with kross hugo theme by following this easy steps (No Coding Required)
 
