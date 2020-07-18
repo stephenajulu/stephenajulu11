@@ -1,11 +1,11 @@
 ---
 banner:
-  title: Hi! I’m <br> Christoher <br> UX designer
+  title: Hi! I’m <br> Stephen Ajulu
 about:
   enable: true
-  content: |-
-    I am a Front End Web Developer, Ethical Hacker, Researcher and Graphics/UI/UX Designer.
-    I’m currently pursuing a Bachelor of Science in Information Technology.
+  content: I am a Front End Web Developer, Graphic Designer, Content Creator and Junior
+    Cybersecurity Consultant/Analyst from Kenya and I’m currently pursuing my Bachelor
+    of Science in Information Technology.
   button:
     enable: true
     label: learn more
