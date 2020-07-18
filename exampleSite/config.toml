@@ -70,3 +70,12 @@ icon = "ti-dribbble"
 [[params.social]]
 URL = "https://twitter.com/stephenajulu"
 icon = "ti-twitter-alt"
+[[params.social]]
+URL = "https://www.linkedin.com/in/stephenajulu/"
+icon = "ti-linkedin"
+[[params.social]]
+URL = "https://github.com/stephenajulu/"
+icon = "ti-github"
+[[params.social]]
+URL = "mailto:alunje73@gmail.com"
+icon = "ti-email"
