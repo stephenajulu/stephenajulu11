@@ -15,7 +15,7 @@ work_process:
     content: After Designing and Developing i deliver the desired product/service
       to the client, with instructions how to operate the product/service
 team:
-  enable: true
+  enable: false
   title: My Team
   team_member:
   - title: Jack Schenziwe
