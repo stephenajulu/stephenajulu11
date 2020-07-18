@@ -62,17 +62,17 @@ preloader = ""
 URL = "https://www.facebook.com/stephenajulu"
 icon = "ti-facebook"
 [[params.social]]
-URL = "https://www.instagram.com/stephenajulu"
-icon = "ti-instagram"
-[[params.social]]
-URL = "https://dribbble.com/stephenajulu"
-icon = "ti-dribbble"
-[[params.social]]
 URL = "https://twitter.com/stephenajulu"
 icon = "ti-twitter-alt"
 [[params.social]]
+URL = "https://www.instagram.com/stephenajulu"
+icon = "ti-instagram"
+[[params.social]]
 URL = "https://www.linkedin.com/in/stephenajulu/"
 icon = "ti-linkedin"
+[[params.social]]
+URL = "https://dribbble.com/stephenajulu"
+icon = "ti-dribbble"
 [[params.social]]
 URL = "https://github.com/stephenajulu/"
 icon = "ti-github"
