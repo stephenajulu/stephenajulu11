@@ -5,7 +5,7 @@ Kross is a free responsive multi paged Hugo theme, about you :wink:
 
 Personal Website | Portfolio | Personal Brand | Resume | CV | Blog 
 
-Ajulu's Personal Website Hugo Theme is a free responsive Jekyll theme, forked from kross-hugo-portfolio-themefisher-template. I added my personal info, contact form, analytics, and removed one or two things here and there.
+Ajulu's Personal Website Hugo Theme is a free responsive Hugo theme, forked from kross-hugo-portfolio-themefisher-template. I added my personal info, contact form, analytics, and removed one or two things here and there.
 
 I'll soon upload a more professional readme and change my domain name to something more professional: stephenajulu.com
 
