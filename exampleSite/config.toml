@@ -27,7 +27,7 @@ description = "Stephen Ajulu is an Bsc.IT Student, Front End Web Developer, Grap
 email = "ajulu@stephenajulu.com"
 google_analytics_id = ""
 home = "Home"
-logo = ""
+logo = "/favicon.ico"
 phone = "+254 726 024 210"
 theme_color = "#120124"
 [params.contact]
