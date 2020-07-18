@@ -22,7 +22,7 @@ weight = "4"
 [params]
 address = "Syokimau, Nairobi, Kenya"
 author = "Stephen Ajulu"
-copyright = "Copyright &copy; Stephen Ajulu,  1995 - 2020 "
+copyright = "Copyright &copy; Stephen Ajulu, 2020 "
 description = "This is meta description"
 email = "ajulu@stephenajulu.com"
 google_analytics_id = ""
