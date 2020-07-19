@@ -80,7 +80,7 @@ service:
 portfolio:
   enable: true
   title: Portfolio
-  item_show: "5"
+  item_show: "3"
 testimonial:
   enable: true
   title: Testimonials
